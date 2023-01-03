@@ -1,2 +1,1 @@
-name: Test
-description: Test description
+{name: Test, description: Test description}
